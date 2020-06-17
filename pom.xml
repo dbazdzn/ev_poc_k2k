@@ -60,22 +60,22 @@ under the License.
 		</dependency>
 		<dependency>
 			<groupId>org.apache.flink</groupId>
-			<artifactId>flink-table_2.11</artifactId>
+			<artifactId>flink-table</artifactId>
 			<version>${flink.version}</version>
 		</dependency>
 		<dependency>
 			<groupId>org.apache.flink</groupId>
-			<artifactId>flink-streaming-java_2.11</artifactId>
+			<artifactId>flink-streaming-java_2.12</artifactId>
 			<version>${flink.version}</version>
 		</dependency>
 		<dependency>
 			<groupId>org.apache.flink</groupId>
-			<artifactId>flink-streaming-scala_2.11</artifactId>
+			<artifactId>flink-streaming-scala_2.12</artifactId>
 			<version>${flink.version}</version>
 		</dependency>
 		<dependency>
 			<groupId>org.apache.flink</groupId>
-			<artifactId>flink-clients_2.11</artifactId>
+			<artifactId>flink-clients_2.12</artifactId>
 			<version>${flink.version}</version>
 		</dependency>
 
